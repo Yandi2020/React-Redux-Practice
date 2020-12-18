@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Redux-Practice/static/css/main.863f997b.chunk.css",
+    "main.js": "/React-Redux-Practice/static/js/main.47fd0311.chunk.js",
+    "main.js.map": "/React-Redux-Practice/static/js/main.47fd0311.chunk.js.map",
+    "runtime-main.js": "/React-Redux-Practice/static/js/runtime-main.9fd0e9ac.js",
+    "runtime-main.js.map": "/React-Redux-Practice/static/js/runtime-main.9fd0e9ac.js.map",
+    "static/js/2.296a0efd.chunk.js": "/React-Redux-Practice/static/js/2.296a0efd.chunk.js",
+    "static/js/2.296a0efd.chunk.js.map": "/React-Redux-Practice/static/js/2.296a0efd.chunk.js.map",
+    "index.html": "/React-Redux-Practice/index.html",
+    "precache-manifest.20f57ff3097bb13d8e39881e0a342f28.js": "/React-Redux-Practice/precache-manifest.20f57ff3097bb13d8e39881e0a342f28.js",
+    "service-worker.js": "/React-Redux-Practice/service-worker.js",
+    "static/css/main.863f997b.chunk.css.map": "/React-Redux-Practice/static/css/main.863f997b.chunk.css.map",
+    "static/js/2.296a0efd.chunk.js.LICENSE.txt": "/React-Redux-Practice/static/js/2.296a0efd.chunk.js.LICENSE.txt",
+    "static/media/pokeball.png": "/React-Redux-Practice/static/media/pokeball.f10bf078.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fd0e9ac.js",
+    "static/js/2.296a0efd.chunk.js",
+    "static/css/main.863f997b.chunk.css",
+    "static/js/main.47fd0311.chunk.js"
+  ]
+}
